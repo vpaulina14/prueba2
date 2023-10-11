@@ -20,4 +20,6 @@ var sumaPares = numerosPares.reduce(function(acumulador, numero) {
 console.log("Números pares:", numerosPares);
 console.log("Suma de números pares:", sumaPares);
 
-//sbhdbfebfybkf rjjfr
+//sbhdbfebfybkf rjjfrnjnjj
+//ndjnnvsdnv
+
