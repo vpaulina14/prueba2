@@ -11,6 +11,8 @@ var numerosPares = numeros.filter(function(numero) {
 var sumaPares = numerosPares.reduce(function(acumulador, numero) {
   return acumulador + numero;
 }, 0);
+//jdvnsddbj
+//djbhca fdana
 
 //ksbdbfjbsdf jfsjdnjf
 
